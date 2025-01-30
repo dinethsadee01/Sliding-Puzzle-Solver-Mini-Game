@@ -23,7 +23,7 @@ This project implements the classic **Sliding Puzzle Game** with AI-based pathfi
 ## Setup and Usage  
 1. Clone the repository:  
    ```bash  
-   git clone <your-github-repo-url>  
+   git clone <https://github.com/dinethsadee01/Sliding-Puzzle-Solver-Mini-Game.git>  
    cd sliding-puzzle-game  
    ```  
 2. Add your puzzle input file in `.txt` format (e.g., `puzzle_40.txt`).  
